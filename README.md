@@ -12,8 +12,11 @@ This repository contains well-structured and efficient automation scripts for OS
 
 ## 🐒❄️ Script
 ✅ Utilises your gear and runes to cast Ice Burst at Maniacal monkeys
+
 ✅ Effectively trains your magic level at high levels with speed
+
 ✅ Fully-Automated: Start it and leave it!
+
 ✅ Self-sufficient: will pick up prayer potions and combine them, needing to leave to restock is unnecessary!
 
 -Start the script from the hole outside of the tunnels with everything you need.
